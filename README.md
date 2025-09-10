@@ -1,0 +1,8 @@
+SPRING_PROFILES_ACTIVE="production"
+JWT_SECRET="BaobabAcademyProductionSecretKey2024VeryLongAndSecure!"
+CORS_ALLOWED_ORIGINS="https://baobab-academy-frontend.vercel.app,http://localhost:3000"
+MONGODB_URI="mongodb+srv://diopsamba408:Keg01EKDjuOgk0LP@baobab-academy.llpcqcb.mongodb.net/baobab_academy_prod?retryWrites=true&w=majority&appName=baobab-academy"
+CLOUDINARY_CLOUD_NAME="dnbyf2jqg"
+CLOUDINARY_API_KEY="692874425739111"
+CLOUDINARY_API_SECRET="4DLEIJt_ImEVWVjKXDO_7NDzuko"
+JAVA_OPTS="-Xmx512m -Xms256m"
